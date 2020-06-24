@@ -1,10 +1,10 @@
 <html>
 <head>
 Example1site
-</head>
 <title>
 Welcome
 </title>
+</head>
 <body>
 This is my first site
 </body>
